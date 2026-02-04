@@ -7,7 +7,7 @@
 ## 🚀 Interests
 
 - 🤖 Machine Learning & Deep Learning
-- 🧠 Transformers, Seq2Seq, Attention, Decoding
+- 🧠 Transformers, Seq2Seq, Attention, SelfAttention
 - ⚙️ Systems, Parallelism, GPU Computing (CUDA)
 
 ---
@@ -16,7 +16,7 @@
 
 **Languages:** C++, Python, CUDA  
 **ML/DL:** PyTorch, Transformers, Seq2Seq, Attention, Evaluation Metrics  
-**Systems:** GPU Optimization, Memory Hierarchy, Nsight Profiling, Parallelism  
+**Systems:** GPU Optimization, Nsight Profiling
 
 ---
 
