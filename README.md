@@ -36,7 +36,7 @@
 
 ---
 
-### 🔹 Personalized Cancer Diagnosis (ML + Ensembling)
+### 🔹 Personalized Cancer Diagnosis (ML + Ensembling)(https://github.com/anmolguptacse/Personalized-Cancer-Diagnosis)
 - Multi-class classification using gene mutation and clinical text data
 - Benchmarked NB, LR, SVM, RF and built stacking/voting ensembles
 
