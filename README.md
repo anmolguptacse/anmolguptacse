@@ -23,26 +23,37 @@
 ## 📌 Featured Projects
 
 ### 🔹 [Translating Indian Names (Seq2Seq + Attention)](https://github.com/anmolguptacse/Translating-Indian-names)
-- Character-level encoder–decoder with attention and custom Hindi tokenizer
-- Implemented greedy and beam search decoding
-- Achieved **92% accuracy, 88 BLEU, 4% CER**
+
 
 ---
 
 ### 🔹 [Transformer Implementation From Scratch](https://github.com/anmolguptacse/Transformer-Implementation-From-Scratch-)
-- Built multi-head attention, positional encoding, FFN, and layer norm from scratch
-- Trained on OPUS English–French dataset
-- Visualized attention maps for interpretability
+
 
 ---
 
 ### 🔹 [Personalized Cancer Diagnosis (ML + Ensembling)](https://github.com/anmolguptacse/Personalized-Cancer-Diagnosis)
-- Multi-class classification using gene mutation and clinical text data
-- Benchmarked NB, LR, SVM, RF and built stacking/voting ensembles
+
 
 ---
 
 ### 🔹 [GPU-Accelerated 2D Convolution Optimization on NVIDIA A100](https://github.com/anmolguptacse/GPU-Accelerated-2D-Convolution-Optimization-on-NVIDIA-A100)
-- Achieved **15.8× speedup** using memory coalescing, shared memory tiling, ILP, and multi-stream concurrency
-- Converted memory-bound kernel to compute-bound (16% → 93% utilization)
-- Optimized systematically using Nsight Compute
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anmolguptacse&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anmolguptacse&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolguptacse&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anmolguptacse/anmolguptacse/output/github-contribution-grid-snake-dark.svg">
+</p>
