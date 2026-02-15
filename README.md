@@ -1,18 +1,18 @@
-# Hi, I'm Anmol Gupta 👋
+# Hi, I'm Anmol Gupta 
 
-🎓 M.Tech CSE @ IISc Bangalore (2025–27)
-
----
-
-## 🚀 Interests
-
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Transformers, Seq2Seq, Attention, SelfAttention
-- ⚙️ Systems, Parallelism, GPU Computing (CUDA)
+ M.Tech CSE @ IISc Bangalore (2025–27)
 
 ---
 
-## 🛠️ Skills
+##  Interests
+
+-  Machine Learning & Deep Learning
+-  Transformers, Seq2Seq, Attention, SelfAttention
+-  Systems, Parallelism, GPU Computing (CUDA)
+
+---
+
+##  Skills
 
 **Languages:** C++, Python, CUDA  
 **ML/DL:** PyTorch, Transformers, Seq2Seq, Attention, Evaluation Metrics  
@@ -20,28 +20,28 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔹 [Translating Indian Names (Seq2Seq + Attention)](https://github.com/anmolguptacse/Translating-Indian-names)
-
-
----
-
-### 🔹 [Transformer Implementation From Scratch](https://github.com/anmolguptacse/Transformer-Implementation-From-Scratch-)
+###  [Translating Indian Names (Seq2Seq + Attention)](https://github.com/anmolguptacse/Translating-Indian-names)
 
 
 ---
 
-### 🔹 [Personalized Cancer Diagnosis (ML + Ensembling)](https://github.com/anmolguptacse/Personalized-Cancer-Diagnosis)
+###  [Transformer Implementation From Scratch](https://github.com/anmolguptacse/Transformer-Implementation-From-Scratch-)
 
 
 ---
 
-### 🔹 [GPU-Accelerated 2D Convolution Optimization on NVIDIA A100](https://github.com/anmolguptacse/GPU-Accelerated-2D-Convolution-Optimization-on-NVIDIA-A100)
+###  [Personalized Cancer Diagnosis (ML + Ensembling)](https://github.com/anmolguptacse/Personalized-Cancer-Diagnosis)
+
 
 ---
 
-## 📊 GitHub Analytics
+###  [GPU-Accelerated 2D Convolution Optimization on NVIDIA A100](https://github.com/anmolguptacse/GPU-Accelerated-2D-Convolution-Optimization-on-NVIDIA-A100)
+
+---
+
+##  GitHub Analytics
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anmolguptacse&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anmolguptacse&theme=tokyonight&hide_border=true"/>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🔥 Contribution Activity
+##  Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/anmolguptacse/anmolguptacse/output/github-contribution-grid-snake-dark.svg" />
 </p>
